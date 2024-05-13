@@ -13,8 +13,7 @@ This project demonstrates the use of YOLOv8 for real-time sign language detectio
 
 ## Dataset
 
-- **Source:**  Link to dataset: [sign_recognition Computer Vision Project ]([https://universe.roboflow.com/ss-hwnzd/sign_recognition](https://app.roboflow.com/ds/im3nn3pi4Z?key=CNpQ4IJG4q
-))
+- **Source:**  Link to dataset:![sign_recognition Computer Vision Project](https://app.roboflow.com/ds/im3nn3pi4Z?key=CNpQ4IJG4q)
 - **Format:** YOLOv8 compatible format 
 
 ## Model Architecture
