@@ -35,7 +35,10 @@ This project demonstrates the use of YOLOv8 for real-time sign language detectio
 ## Usage
 
 1. Clone this repository.
-2. Download the pre-trained model weights.
+2. install the ultralytics using this command:
+ ```bash
+pip install ultralytics
+```
 3. Run the script named `run.py`
 
 ## Results
