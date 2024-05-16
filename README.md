@@ -44,7 +44,12 @@ pip install ultralytics
 ## Results
 
 - Results are stored in result_dir directory. Feel free to check the result. 
-- sample predictions are stored in prediction_samples directory 
+- sample predictions are stored in prediction_samples directory
+
+## Project Details 
+
+Check out the following link to see a walkthrough of the project, including a presentation and code explanation.
+[Click here!](https://drive.google.com/file/d/1AwfLSHKh9_AAeYGBisp1oQ0UKX1m695i/view?usp=drivesdk)
 
 
 
