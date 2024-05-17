@@ -49,7 +49,7 @@ pip install ultralytics
 ## Project Details 
 
 Check out the following link to see a walkthrough of the project, including a presentation and code explanation.
-[Click here!](https://drive.google.com/file/d/1AwfLSHKh9_AAeYGBisp1oQ0UKX1m695i/view?usp=drivesdk)
+[Click here!](https://drive.google.com/file/d/10GiG_58dmJlo9rw9eanJQQlkYVg7tNoc/view?usp=drive_link)
 
 
 
